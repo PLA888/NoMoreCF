@@ -5,9 +5,10 @@
 // @description  Automatically simulate mouse events to pass Cloudflare Turnstile challenge
 // @author       liuweiqing(github.com @14790897)
 // @match        *://*/*
-// @grant        MIT
+// @grant        none
 // @run-at       document-end
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
+// @license      MIT
 // ==/UserScript==
 
 (function () {
